@@ -1,4 +1,4 @@
-# centos-vagrant-boxes
+# vagrant-boxes
 
 Build fast vagrant-base-boxes (CentOS) for further usage.
 Default EN/US language and Finnish keyboard
