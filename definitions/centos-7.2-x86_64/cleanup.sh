@@ -1,4 +1,3 @@
-yum -y erase freetype
+yum -y erase freetype epel-release
 yum -y clean all
-rm -rf /etc/yum.repos.d/epel.repo
 rm -rf VBoxGuestAdditions_*.iso
