@@ -5,9 +5,9 @@ Veewee::Session.declare({
   :disk_format => 'VDI',
   :hostiocache => 'off',
   :os_type_id => 'RedHat6_64',
-  :iso_file => "CentOS-6.7-x86_64-netinstall.iso",
-  :iso_src => "http://ftp.funet.fi/pub/mirrors/centos.org/6/isos/x86_64/CentOS-6.7-x86_64-netinstall.iso",
-  :iso_md5 => "171ce654ec06040d096daf75934ca8ca",
+  :iso_file => "CentOS-6.8-x86_64-netinstall.iso",
+  :iso_src => "http://ftp.funet.fi/pub/mirrors/centos.org/6/isos/x86_64/CentOS-6.8-x86_64-netinstall.iso",
+  :iso_md5 => "9e0ee4c5d9d0371fa0c0809b487ee5bb",
   :iso_download_timeout => 1000,
   :boot_wait => "10",
   :boot_cmd_sequence => [
