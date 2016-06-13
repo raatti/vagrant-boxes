@@ -15,14 +15,14 @@ Default EN/US language and Finnish keyboard
 ## Build
 ```
 $ veewee vbox build centos-5.11-x86_64
-$ veewee vbox build centos-6.7-x86_64
+$ veewee vbox build centos-6.8-x86_64
 $ veewee vbox build centos-7.2-x86_64
 ```
 
 ## Export
 ```
 $ veewee vbox export centos-5.11-x86_64
-$ veewee vbox export centos-6.7-x86_64
+$ veewee vbox export centos-6.8-x86_64
 $ veewee vbox export centos-7.2-x86_64
 
 ```
